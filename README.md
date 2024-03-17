@@ -1,1 +1,1 @@
-# go-secp256k1
+# gord-secp256k1
